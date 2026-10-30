@@ -114,6 +114,6 @@ Codigo HTTP: 200
 
 ---
 
-## 🎯 Objetivo da Atividade
+## Objetivo da Atividade
 
 Aplicar os conhecimentos sobre comunicação Wi-Fi na ESP32, leitura de entradas digitais e integração entre dispositivos físicos e aplicações back-end por meio de requisições HTTP POST.
